@@ -1,0 +1,64 @@
+</* Colors and fonts */ 
+
+body {  
+background-color: rgb(230,230,230);
+color: rgb(50,50,50);
+font-family: 'helvetica', serif;
+font-size: 30px
+style="text-align: center"
+ }
+
+ a:hover { color: black; 
+    
+ } 
+
+
+h1,h2 { font-family: 'Roboto', sans-serif; 
+font-size: 60px
+ }  
+
+ h1{   
+    color: #fd6c9e ;
+    
+    font-size: 100px ; 
+ }      
+
+h2{   
+    color: #FF00FF;
+    
+    font-size: 24px ; 
+    font-weight: lighter; 
+    
+ }
+
+ a{ 
+    text-decoration: none;
+    color: #000000 ;
+    font-weight:bold;  
+}
+        
+
+div {
+    background: white;
+    padding: 60px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px rgba( 0,0,0,0.47);
+    border-radius: 4px;
+}
+
+
+img.displayed
+{
+    width: 200px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
